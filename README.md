@@ -1,6 +1,5 @@
 # groupBranching
 This is our group branching git project
+I just created a Laura branch
 
-//created branch Sarayu 
-//changed in here - Sarayu branch
-//merged Sarayu branch
+Created a Sarayu branch 
